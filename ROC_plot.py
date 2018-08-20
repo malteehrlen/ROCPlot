@@ -3,11 +3,8 @@
 
 """Plot ROC curve and calculate AUC. Input is a file containing all true
    positive parameter values and one containing all true negataive values."""
-
-# Copyright (C) 2016 Biomagnetik Park GmbH - All Rights Reserved
-# Unauthorized copying of this file, via any medium is strictly prohibited
-# Proprietary and confidential
-# Author: Malte Ehrlen malteehrlen@biomagnetik.com
+   
+# Author: Malte Ehrlen malte@ehrlen.com
 
 
 import sys
